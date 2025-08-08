@@ -3,7 +3,7 @@
 1. [Unity 2D Camera](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/Unity%202D%20Camera.md)
 2. [Understanding Unity Scenes](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/Unity%20Scenes.md)[^1]
 3. [Unity GameObjects](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/Game%20Objects.md)
-4. [Unity Components](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/README.md)
+4. [Unity Components](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/Components.md)
 5. [MonoBehaviours](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/MonoBehaviour.md) 
 ## C# Tutorial
 
