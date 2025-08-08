@@ -6,7 +6,7 @@
 4. [Unity Components](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/Components.md)
 5. [MonoBehaviours](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/MonoBehaviour.md) 
 ## C# Tutorial
-[In Work]
+\[In Work\]
 ## Putting Them Both Together
 
 1. [Simple 2D Scene](https://github.com/ART-3364-Interactive-Storytelling/Simple-2D-Scene) - A first introduction into creating a 2D Unity project and animating a simple shape across the screen.
