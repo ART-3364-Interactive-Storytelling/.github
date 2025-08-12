@@ -10,8 +10,9 @@
 2. [Scope and Braces](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/CSharp_Scope.md)
 3. [Data Types](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/CSharp_Datatypes.md)
 4. [Classes](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/csharp_classes.md)
+     * [Methods](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/CSharp_Methods.md)
      * [Methods vs. Properties](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/Methods_v_Properties.md)
-5. [Assemblies](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/CSharp_Assembly.md)
+6. [Assemblies](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/CSharp_Assembly.md)
    
 \[In Work\]
 ## Putting Them Both Together
