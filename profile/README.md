@@ -4,7 +4,8 @@
 2. [Understanding Unity Scenes](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/Unity%20Scenes.md)[^1]
 3. [Unity GameObjects](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/Game%20Objects.md)
 4. [Unity Components](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/Components.md)
-5. [MonoBehaviours](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/MonoBehaviour.md) 
+5. [MonoBehaviours](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/MonoBehaviour.md)
+6. [BoxCollider2D](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/BoxCollider2D.md)
 ## C# Tutorial
 1. [Program Structure](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/CSharp_Structure.md)
 2. [Scope and Braces](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/CSharp_Scope.md)
