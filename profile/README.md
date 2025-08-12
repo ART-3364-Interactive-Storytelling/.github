@@ -12,6 +12,7 @@
 4. [Classes](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/csharp_classes.md)
      * [Methods](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/CSharp_Methods.md)
      * [Methods vs. Properties](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/Methods_v_Properties.md)
+     * [Pass-by-Value vs. Pass-By-Reference](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/CSharp_by_Value.md)
 6. [Assemblies](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/CSharp_Assembly.md)
    
 \[In Work\]
