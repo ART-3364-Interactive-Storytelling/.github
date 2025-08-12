@@ -7,7 +7,8 @@
 5. [MonoBehaviours](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/MonoBehaviour.md) 
 ## C# Tutorial
 1. [Classes](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/csharp_classes.md)
-2. [Assemblies](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/CSharp_Assembly.md)
+     * [Methods vs. Properties](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/Methods_v_Properties.md)
+3. [Assemblies](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/CSharp_Assembly.md)
    
 \[In Work\]
 ## Putting Them Both Together
