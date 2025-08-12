@@ -6,7 +6,7 @@
 4. [Unity Components](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/Components.md)
 5. [MonoBehaviours](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/MonoBehaviour.md) 
 ## C# Tutorial
-1.[Program Structure](CSharp_Structure.md}
+1. [Program Structure](CSharp_Structure.md)
 2. [Scope and Braces](CSharp_Scope.md)
 3. [Classes](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/csharp_classes.md)
      * [Methods vs. Properties](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/Methods_v_Properties.md)
