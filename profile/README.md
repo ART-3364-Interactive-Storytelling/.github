@@ -2,8 +2,9 @@
 ## Unity Tutorial
 1. [Unity 2D Camera](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/Unity%202D%20Camera.md)
 2. [Understanding Unity Scenes](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/Unity%20Scenes.md)[^1]
-       * [Implementing a UI with Buttons in Unity: Switching Scenes](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/Unity%20Button.md)
-       * [DontDestroyOnLoad](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/DontDestroyOnLoad.md)
+   
+   * [Implementing a UI with Buttons in Unity: Switching Scenes](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/Unity%20Button.md)
+   * [DontDestroyOnLoad](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/DontDestroyOnLoad.md)
 4. [Unity GameObjects](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/Game%20Objects.md)
 5. [Unity Components](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/Components.md)
 6. [MonoBehaviours](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/MonoBehaviour.md)
