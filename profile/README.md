@@ -6,7 +6,7 @@
 4. [Unity Components](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/Components.md)
 5. [MonoBehaviours](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/MonoBehaviour.md)
 6. [BoxCollider2D](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/BoxCollider2D.md)
-7. [Scenes]()
+7. [Scenes](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/Unity%20Scenes.md)
        * [Implementing a UI with Buttons in Unity: Switching Scenes](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/Unity%20Button.md)
        * [DontDestroyOnLoad](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/DontDestroyOnLoad.md)
 ## C# Tutorial
