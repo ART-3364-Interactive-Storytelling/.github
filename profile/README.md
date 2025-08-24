@@ -31,6 +31,6 @@
 2. [Using a Prefab](https://github.com/ART-3364-Interactive-Storytelling/Text-Based-Adventure/blob/main/Using%20a%20Prefab%20To%20Make%20a%20Scene.md) - How-to create a scene using your prefab.
 
 ### Additional How-To
-1. [Health Bars]( ) - How-To add a health bar to your screen
+1. [Health Bars](https://github.com/ART-3364-Interactive-Storytelling/Text-Based-Adventure/blob/main/Adding_A_Health_Bar.md) - How-To add a health bar to your screen
 
 [^1]: Critical knowledge for the first assignment inside.
