@@ -32,5 +32,6 @@
 
 ### Additional How-To
 1. [Health Bars](https://github.com/ART-3364-Interactive-Storytelling/Text-Based-Adventure/blob/main/Adding_A_Health_Bar.md) - How-To add a health bar to your screen
+2. [Turning GameObjects On and Off](https://github.com/ART-3364-Interactive-Storytelling/On_Off_Panels_More_Text/tree/main) - Turning GameObjects On and Off via buttons and scripts.  Having multiple story panels advance with button, and fading a GameObject in and out via adjusting its alpha/
 
 [^1]: Critical knowledge for the first assignment inside.
