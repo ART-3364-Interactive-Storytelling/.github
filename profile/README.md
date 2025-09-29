@@ -33,5 +33,14 @@
 ### Additional How-To
 1. [Health Bars](https://github.com/ART-3364-Interactive-Storytelling/Text-Based-Adventure/blob/main/Adding_A_Health_Bar.md) - How-To add a health bar to your screen
 2. [Turning GameObjects On and Off](https://github.com/ART-3364-Interactive-Storytelling/On_Off_Panels_More_Text/tree/main) - Turning GameObjects On and Off via buttons and scripts.  Having multiple story panels advance with button, and fading a GameObject in and out via adjusting its alpha/
+   
+### Hidden Object / Project 2
+1. [Animations and Particle Effects](https://github.com/ART-3364-Interactive-Storytelling/Hidden_Object) - Creating a small scene with animated sprites and particle effects that use a custom material
+2. [Moving Objects by Dragging and Detecting Collisions](https://github.com/ART-3364-Interactive-Storytelling/Select-and-Collide) - Dragging colored boxes to simulate a color palette.
+3. [Cat Animation](https://github.com/ART-3364-Interactive-Storytelling/CatAnimation) - Setting up an Animation State Machine.  The cat cycles through Idle, Sleepy, Sleeping, Dancing, Excited with no code (almost no).
 
+## Still To Come
+4. Cut Scenes
+5. Inventory
+   
 [^1]: Critical knowledge for the first assignment inside.
