@@ -26,6 +26,9 @@
 1. [Simple 2D Scene](https://github.com/ART-3364-Interactive-Storytelling/Simple-2D-Scene) - A first introduction into creating a 2D Unity project and animating a simple shape across the screen.
 2. [Simple UFO](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/Simple%202D%20UFO.md) - Building on the first tutorial we add a background sprite, a ufo sprite and a farm.  We animate the UFO movement with a C# script.
 
+## Storybooks
+1. [Storybook Setup](https://github.com/ART-3364-Interactive-Storytelling/Tutorials/blob/main/Storybook%20Setup.md) - How to set up your scene in Unity for your interactive storybook.
+
 ## Text Based Adventure
 1. [Generating a Prefab](https://github.com/ART-3364-Interactive-Storytelling/Text-Based-Adventure/blob/main/Generating_A_Prefab.md) - How-to generate a Prefab scene that can used as a quick template for all your scenes.
 2. [Using a Prefab](https://github.com/ART-3364-Interactive-Storytelling/Text-Based-Adventure/blob/main/Using%20a%20Prefab%20To%20Make%20a%20Scene.md) - How-to create a scene using your prefab.
