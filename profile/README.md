@@ -32,6 +32,7 @@
 ## Text Based Adventure
 1. [Generating a Prefab](https://github.com/ART-3364-Interactive-Storytelling/Text-Based-Adventure/blob/main/Generating_A_Prefab.md) - How-to generate a Prefab scene that can used as a quick template for all your scenes.
 2. [Using a Prefab](https://github.com/ART-3364-Interactive-Storytelling/Text-Based-Adventure/blob/main/Using%20a%20Prefab%20To%20Make%20a%20Scene.md) - How-to create a scene using your prefab.
+3. [Typewriter Script](https://github.com/ART-3364-Interactive-Storytelling/Text-Based-Adventure/blob/main/TypewriterText.md) - Add on for typewriter effect.
 
 ### Additional How-To
 1. [Health Bars](https://github.com/ART-3364-Interactive-Storytelling/Text-Based-Adventure/blob/main/Adding_A_Health_Bar.md) - How-To add a health bar to your screen
